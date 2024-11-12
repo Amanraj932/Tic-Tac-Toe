@@ -41,4 +41,4 @@ This project was created to demonstrate core web development skills on the GUVI 
 1. **Clone the Repository**  
    Open your terminal and clone the repository with the following command:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   https://github.com/Amanraj932/Tic-Tac-Toe.git
